@@ -1,8 +1,16 @@
+body{
+background-image: url("/public/notepad.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: 20% 80%;
+}
+
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-}
+
+  }
 
 .save-note {
   display: none;
